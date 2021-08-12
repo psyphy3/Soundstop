@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Soundstop</string>
+    <string name="play">\u25b6</string>
+    <string name="down">\u25bc</string>
+    <string name="reset">\u27f3</string>
+    <string name="lock">\uD83D\uDD12</string>
+    <string name="info">\u24d8</string>
+    <string name="phone">\uf4f1</string>
+    <string name="tick">\u2713</string>
+    <string name="qstn">\u003f</string>
+
+    <string name="help">
+        
+        The sound level is displayed at the top horizontal bar.\n \n
+        Use the seekbar to set a threshold for the sound.\n \n
+        When the sound level increase beyond this threshold, stopwatch will be stopped automatically.\n
+        
+    </string>
+
+    <string name="important">
+
+        IMPORTANT: When the app is active, screen won\'t turn OFF automatically.
+        \n \n
+        Stopwatch won\'t run in the background.
+
+
+    </string>
+</resources>
